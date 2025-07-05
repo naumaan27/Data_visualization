@@ -18,10 +18,10 @@ Data cleaning was performed using **Power BI / Tableau ’s Power Query Editor**
 ## Dashboard Structure
 
 Each visual is created on a **separate Power BI / Tableau  tab**, clearly labeled by question number:
-- `Q1`: Monthly Revenue Trend for 2011
-- `Q2`: Top 10 Revenue-Generating Countries (Excluding UK)
-- `Q3`: Top 10 Customers by Revenue
-- `Q4`: Global Demand Analysis (Excluding UK)
+- `Q1`: Monthly Revenue Trend for 2011 ![Q1](https://github.com/naumaan27/Data_visualization/blob/main/Q1.png)
+- `Q2`: Top 10 Revenue-Generating Countries (Excluding UK) ![Q2](https://github.com/naumaan27/Data_visualization/blob/main/Q2.png)
+- `Q3`: Top 10 Customers by Revenue ![Q3](https://github.com/naumaan27/Data_visualization/blob/main/Q3.png)
+- `Q4`: Global Demand Analysis (Excluding UK) ![Q4](https://github.com/naumaan27/Data_visualization/blob/main/Q4.png)
 
 ---
 
